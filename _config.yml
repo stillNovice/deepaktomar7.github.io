@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://deepaktomar7.github.io
+title: stillNovice
+email: deepaksinghtomar7@gmail.com
+author: deepaktomar7
+description: something for all
+paginate: 3
+google_analytics: 
